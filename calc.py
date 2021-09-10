@@ -5,7 +5,7 @@ def compute(expression):
     num1 = int(values[2])
     if operator == '+':
         return num0 + num1
-    elif opoeratur == '-':
+    elif operator == '-':
         return num0 - Num1
     else:
         print('unknown operator!')
