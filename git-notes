@@ -13,4 +13,8 @@ git checkout has-code
 
 git switch branch_name
 
+add some random text
+
 git switch -c new branch
+
+this line has been added on merge-conflict branch
