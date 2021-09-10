@@ -13,7 +13,11 @@ git checkout has-code
 
 git switch branch_name
 
+add some random text
+
 git switch -c new branch
+
 asdad
 asdad
 confiusion
+
