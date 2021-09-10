@@ -6,3 +6,11 @@
 OR
 
 2a. git commit -am "message"
+
+git log
+
+git checkout has-code
+
+git switch branch_name
+
+git switch -c new branch
